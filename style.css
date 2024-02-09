@@ -121,3 +121,24 @@ body {
     border-radius: 10px;
     object-fit: cover;
 }
+
+
+/* SECTION 3 'quote' */
+
+.quote {
+    background-color: #e5e7eb;
+    padding: 100px 350px;
+}
+
+.quote .quote-text {
+    text-align: center;
+    font-style: italic;
+    font-weight: 100;
+    color: #1f2937;
+}
+
+.quote .quote-author {
+    text-align: right;
+    font-size: 16px;
+    color: #1f2937;
+}
